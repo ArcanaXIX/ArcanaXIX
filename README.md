@@ -1,6 +1,8 @@
 ## Leo "ArcanaXIX"
 Musician, programmer, multimedia artist, person-who-wears-many-hats. Developer of "Amadeus: A Riddle for Thee."
 
+If there is one thing I learned from my 2 years working in IT, it's how to document!
+
 Major Projects:
 
 <a href="https://linktr.ee/amadeusgame">Amadeus: A Riddle for Thee ~ Episode 1 ~ Waltz</a>
