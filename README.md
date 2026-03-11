@@ -1,4 +1,5 @@
-## Developer of "Amadeus: A Riddle for Thee" & Creator of Ghost Trick NG+ ROMHack 
+## Leo "ArcanaXIX"
+Cellist, composer, programmer, person-who-wears-many-hats. Developer of "Amadeus: A Riddle for Thee."
 
 Major Projects:
 
