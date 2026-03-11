@@ -3,7 +3,7 @@
 Major Projects:
 
 <a href="https://linktr.ee/amadeusgame">Amadeus: A Riddle for Thee ~ Episode 1 ~ Waltz</a>
-<p>My solo dev project, built in Unity over 3 years from 2022-2025. I coded all mechanics, in addition to writing the story, drawing every art asset, designing the game and UI, and composing/implementing the sound. Here are some mechanics I'm proud of:</p>
+<p>My solo dev project, built in Unity over 3 years starting in 2022 and released on Steam in 2025. I coded all mechanics, in addition to writing the story, drawing every art asset, designing the game and UI, and composing/implementing the sound. Here are some mechanics I'm proud of:</p>
 
 <ul>
   <li>Pathfinding algorithm so the point-and-click movement can navigate complex geography</li>
