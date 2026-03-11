@@ -1,5 +1,5 @@
 ## Leo "ArcanaXIX"
-Musician, programmer, multimedia artist, person-who-wears-many-hats. Developer of "Amadeus: A Riddle for Thee."
+Musician, programmer, multimedia artist, person-who-wears-many-hats.
 
 If there is one thing I learned from my 2 years working in IT, it's how to document!
 
