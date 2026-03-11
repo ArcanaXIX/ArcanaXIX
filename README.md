@@ -3,7 +3,7 @@
 Major Projects:
 
 <a href="https://linktr.ee/amadeusgame">Amadeus: A Riddle for Thee ~ Episode 1 ~ Waltz</a>
-My solo passion project, developed in Unity over 3 years from 2022-2025. I coded all mechanics, in addition to writing the story, drawing every art asset, designing the game and UI, and composing/implementing the sound. Here are some mechanics I'm proud of:
+<p>My solo passion project, developed in Unity over 3 years from 2022-2025. I coded all mechanics, in addition to writing the story, drawing every art asset, designing the game and UI, and composing/implementing the sound. Here are some mechanics I'm proud of:</p>
 
 <ul>
   <li>Pathfinding algorithm so the point-and-click movement can navigate complex geography</li>
