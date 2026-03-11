@@ -1,5 +1,5 @@
 ## Leo "ArcanaXIX"
-Cellist, composer, programmer, person-who-wears-many-hats. Developer of "Amadeus: A Riddle for Thee."
+Musician, programmer, multimedia artist, person-who-wears-many-hats. Developer of "Amadeus: A Riddle for Thee."
 
 Major Projects:
 
