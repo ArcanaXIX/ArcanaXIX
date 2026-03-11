@@ -3,7 +3,7 @@
 Major Projects:
 
 <a href="https://linktr.ee/amadeusgame">Amadeus: A Riddle for Thee ~ Episode 1 ~ Waltz</a>
-<p>My solo passion project, developed in Unity over 3 years from 2022-2025. I coded all mechanics, in addition to writing the story, drawing every art asset, designing the game and UI, and composing/implementing the sound. Here are some mechanics I'm proud of:</p>
+<p>My solo dev project, built in Unity over 3 years from 2022-2025. I coded all mechanics, in addition to writing the story, drawing every art asset, designing the game and UI, and composing/implementing the sound. Here are some mechanics I'm proud of:</p>
 
 <ul>
   <li>Pathfinding algorithm so the point-and-click movement can navigate complex geography</li>
@@ -12,7 +12,8 @@ Major Projects:
   <li>A visual novel engine that feels unique but features all expected QoL features</li>
 </ul>
 
-- <a href="https://github.com/ArcanaXIX/GhostTrickNGPlus">Ghost Trick Phantom Detective "NG+ Mode" Hack</a>
+<a href="https://github.com/ArcanaXIX/GhostTrickNGPlus">Ghost Trick Phantom Detective "NG+ Mode" Hack</a>
+<p>Reverse-engineered NDS game code to develop a visual hack—v1.0 for English now released! Includes a repository with documentation of my process so it can be replicated for other languages. README shows a roadmap for potential additions down the line, but the initial goal is now achieved.</p>
 
 Links:
 
