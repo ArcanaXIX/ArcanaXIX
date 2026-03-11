@@ -14,9 +14,11 @@ Major Projects:
 
 <a href="https://github.com/ArcanaXIX/GhostTrickNGPlus">Ghost Trick Phantom Detective "NG+ Mode" Hack</a>
 <p>Reverse-engineered NDS game code to develop a visual hack—v1.0 for English now released! Includes a repository with documentation of my process so it can be replicated for other languages. README shows a roadmap for potential additions down the line, but the initial goal is now achieved.</p>
+<p>This was mostly a solo endeavor, but major thanks to ThatMLC for helping in the final stretch.</p>
 
 Links:
 
 - <a href="https://arcanaxix.itch.io/">itch.io profile</a>
 - <a href="https://globalgamejam.org/users/arcanaxix">Global Game Jam profile</a>
 - <a href="http://www.arcanaxix.com">Website (with sound effects!)</a>
+- <a href="https://www.romhacking.net/community/6844">Romhacking.net profile</a>
