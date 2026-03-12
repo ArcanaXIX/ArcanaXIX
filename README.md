@@ -10,7 +10,7 @@ Major Projects:
   <li>Pathfinding algorithm so the point-and-click movement can navigate complex geography</li>
   <li>An input scheme that actively handles any combination of keyboard, mouse, or keyboard-and-mouse controls for accessibility</li>
   <li>Dynamic audio mechanics for seamless audio looping, randomized SFX, and A-B song transitions implemented directly in-engine</li>
-  <li>A visual novel engine that feels unique but features all expected QoL features</li>
+  <li>A visual novel engine that feels unique while including all expected QoL features</li>
 </ul>
 
 <a href="https://github.com/ArcanaXIX/GhostTrickNGPlus">Ghost Trick Phantom Detective "NG+ Mode" Hack</a>
